@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://RyanY:thegame1@contactkeeper-35zdw.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://RyanY:thegame1@contactkeeper-35zdw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "19D88248D28F74BEE90FE71FF163E9596A98E7575366D842E825F0112B5F5E49"
 }
