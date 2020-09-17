@@ -9,6 +9,11 @@
   --success-color: #28a745;
 }
 
+.git{
+  color: var(--dark-color);
+  text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
